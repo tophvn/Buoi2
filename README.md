@@ -1,6 +1,6 @@
 ## I. Bài toán tìm kiếm nhị phân
 ### Mô hình
-<img src="https://img.upanh.tv/2024/07/17/MoHinh.gif">.
+<img src="https://img.upanh.tv/2024/07/22/MoHinh.png">.
 ### Kết Quả
 <img src="https://img.upanh.tv/2024/07/17/TKNP_KQ.png">.
 
