@@ -6,5 +6,6 @@
 
 ## II. Bài toán sắp xếp theo giải thuật Merge Sort
 ### Mô hình
+<img src="https://img.upanh.tv/2024/07/22/MergeSortMohinh.png">.
 ### Kết Quả
-
+<img src="https://img.upanh.tv/2024/07/22/MergeSort_KQ.png">.
